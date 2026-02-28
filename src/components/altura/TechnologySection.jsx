@@ -5,7 +5,7 @@ const techDetails = [
   {
     number: '01',
     title: 'Side Retention Channels',
-    description: 'Precision-engineered channels lock the fabric edges in place. Unlike traditional blinds that rely on loose guides, Altura's channels grip the fabric securely — eliminating the rippling that occurs down the sides in wind.',
+    description: "Precision-engineered channels lock the fabric edges in place. Unlike traditional blinds that rely on loose guides, Altura's channels grip the fabric securely — eliminating the rippling that occurs down the sides in wind.",
   },
   {
     number: '02',
